@@ -1,0 +1,1 @@
+Each agent writes one haiku about debugging: three lines in the 5-7-5 syllable shape, at most 200 characters, entered as plain text.
